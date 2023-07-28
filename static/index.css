@@ -3,8 +3,6 @@ body {
   background: rgb(72,40,140);
   background: linear-gradient(135deg, rgba(36,20,70,255) 0%, rgba(65,38,22,255) 100%);
   color: #fff;
-  margin: 0;
-  padding: 0;
 }
 
 #header {
@@ -14,7 +12,6 @@ body {
 }
 
 #header h1 {
-  margin: 0;
   font-size: 24px;
   font-family: 'Arial', sans-serif;
   color: #fff;
@@ -37,12 +34,11 @@ body {
   text-transform: uppercase;
   font-family: 'Open Sans', sans-serif;
   line-height: 1.5;
-  margin-bottom: 20px;
 }
 
 #searchbar {
   text-align: center;
-  margin: 1px auto;
+  margin: 0px auto;
 
 }
 
