@@ -1,6 +1,6 @@
 /* Custom CSS for black theme */
 body {
-  background-color: #36393e;
+  background-color: #202124;
   color: #fff;
   margin: 0;
   padding: 0;
@@ -28,7 +28,7 @@ body {
 
 #content {
   text-align: center;
-  padding: 200px;
+  padding: 20px;
 }
 
 #content h1 {
@@ -43,9 +43,6 @@ body {
 #searchbar {
   text-align: center;
   margin: 100px auto;
-  position: absolute;
-  top: 50%;
-  bottom: 50%;
 
 }
 
