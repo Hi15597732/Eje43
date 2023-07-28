@@ -1,6 +1,7 @@
 /* Custom CSS for black theme */
 body {
-  background-color: #202124;
+  background: rgb(72,40,140);
+  background: linear-gradient(135deg, rgba(72,40,140,1) 0%, rgba(219,127,75,1) 100%);
   color: #fff;
   margin: 0;
   padding: 0;
