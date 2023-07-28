@@ -97,7 +97,6 @@ a{
   color: #fff;
   font-size: 14px;
 }
-
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 #mainFont {
   font-family: 'Open Sans', sans-serif;
@@ -113,4 +112,20 @@ a{
 
 .fa:hover {
   color: #aaa;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+#right {
+  position: fixed;
+  top: 0;
+  right: 0;
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+  height:100px;
+  background-color: #202124;
+  padding-top: 7.5px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: #fff;
+  font-size: 14px;
 }
