@@ -99,7 +99,7 @@ a{
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-#test {
+#mainFont {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   color: #fff;
