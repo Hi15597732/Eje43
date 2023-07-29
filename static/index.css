@@ -96,6 +96,7 @@ a{
   text-align: right;
   color: #fff;
   font-size: 14px;
+  width:100%;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
@@ -106,6 +107,7 @@ a{
   text-align: left;
   color: #fff;
   font-size: 14px;
+  width:100%;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
