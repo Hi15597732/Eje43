@@ -114,7 +114,8 @@ a{
   text-align: left;
   color: #fff;
   font-size: 14px;
-  width:100%;
+  width:50%;
+  height:50%;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
