@@ -87,7 +87,7 @@ a{
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-#top {
+#topRight {
   position: fixed;
   top: 0;
   font-family: 'Open Sans', sans-serif;
@@ -95,6 +95,19 @@ a{
   height:0px;
   background-color: #202124;
   text-align: right;
+  color: #fff;
+  font-size: 14px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+#topLeft {
+  position: fixed;
+  top: 0;
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+  height:0px;
+  background-color: #202124;
+  text-align: left;
   color: #fff;
   font-size: 14px;
 }
