@@ -34,7 +34,9 @@ body {
   background-color: #000000;
   text-align: center;
   color: #fff;
-  cursor:cell;
+  top: 50%;
+  left: 50%;
+  translate:-50%, -50%
 }
 
 a{
@@ -49,10 +51,6 @@ a{
 .form__input::placeholder {
   color: #aaa;
   text-align: center;
-}
-
-.form_input:hover{
-  cursor:cell;
 }
 
 .form__input:focus {
