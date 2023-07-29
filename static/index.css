@@ -9,6 +9,9 @@ body {
 #content {
   text-align: center;
   padding: 20px;
+  top: 50%;
+  left: 50%;
+  translate:-50%, -50%
 }
 
 #content h1 {
@@ -16,11 +19,17 @@ body {
   text-transform: uppercase;
   font-family: 'Open Sans', sans-serif;
   line-height: 1.5;
+  top: 50%;
+  left: 50%;
+  translate:-50%, -50%
 }
 
 #searchbar {
   text-align: center;
   margin: 0px auto;
+  top: 50%;
+  left: 50%;
+  translate:-50%, -50%
 
 }
 
