@@ -12,7 +12,6 @@ body {
 
 .form__input {
   position:fixed;
-  padding: 10px;
   border: none;
   border-radius: 5px;
   font-size: 16px;
@@ -22,6 +21,7 @@ body {
   text-align: center;
   top:33%;
   left:50%;
+  right:50%;
   color: #fff;
 }
 
