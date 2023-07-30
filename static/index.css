@@ -20,8 +20,6 @@ body {
 
 #searchbar {
   text-align: center;
-  margin: 0px auto;
-
 }
 
 .form__input {
@@ -62,7 +60,6 @@ a{
   position: fixed;
   bottom: 0;
   font-family: 'Open Sans', sans-serif;
-  width: 100%;
   height:0px;
   background-color: #202124;
   text-align: center;
@@ -78,7 +75,6 @@ a{
 
 .fa {
   font-size: 24px;
-  margin-right: 10px;
   color: #fff;
 }
 
@@ -94,7 +90,6 @@ a{
   text-align: right;
   color: #fff;
   font-size: 14px;
-  width:100%;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
@@ -105,7 +100,6 @@ a{
   text-align: left;
   color: #fff;
   font-size: 14px;
-  width:100%;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
