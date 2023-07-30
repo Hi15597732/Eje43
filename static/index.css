@@ -2,7 +2,7 @@ body {
   background: rgb(72,40,140);
   background: linear-gradient(135deg, rgba(36,20,70,255) 0%, rgba(65,38,22,255) 100%);
   background-attachment: fixed;
-  color: #dbdee1;
+  color: #cfd2d4;
   background-repeat:no-repeat;
 }
 
@@ -22,7 +22,7 @@ body {
   text-align: center;
   left: 38%;
   top: 43%;
-  color: #dbdee1
+  color: #cfd2d4
 }
 
 a{
@@ -51,23 +51,23 @@ a{
   height:0px;
   background-color: #202124;
   text-align: center;
-  color: #dbdee1;
+  color: #cfd2d4;
   font-size: 14px;
 }
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 #mainFont {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
-  color: #dbdee1;
+  color: #cfd2d4;
 }
 
 .fa {
   font-size: 24px;
-  color: #dbdee1;
+  color: #cfd2d4;
 }
 
 .fa:hover {
-  color: #dbdee1;
+  color: #cfd2d4;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
@@ -77,7 +77,7 @@ a{
   right:0;
   font-family: 'Open Sans', sans-serif;
   text-align: right;
-  color: #dbdee1;
+  color: #cfd2d4;
   font-size: 14px;
 }
 
@@ -87,7 +87,7 @@ a{
   top: 0;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
-  color: #dbdee1;
+  color: #cfd2d4;
   font-size: 14px;
 }
 
@@ -97,6 +97,6 @@ a{
   bottom: 0;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
-  color: #dbdee1;
+  color: #cfd2d4;
   font-size: 14px;
 }
