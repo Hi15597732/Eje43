@@ -16,13 +16,12 @@ body {
   border-radius: 5px;
   font-size: 16px;
   width: 300px;
-  margin: 10px;
+  padding: 10px;
   box-shadow: 0 0 5px rgba(255, 255, 255, 0.3);
   background-color: #000000;
   text-align: center;
   top:33%;
   left:50%;
-  right:50%;
   color: #fff
 }
 
