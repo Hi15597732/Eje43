@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 body {
   background: rgb(72,40,140);
   background: linear-gradient(135deg, rgba(36,20,70,255) 0%, rgba(65,38,22,255) 100%);
@@ -27,8 +29,9 @@ body {
 
 #belowSearch {
   position: absolute;
-  left: 44%;
-  top: 51%;
+  left: 45%;
+  top: 47%;
+  font-family: 'Open Sans', sans-serif;
 }
 
 a{
