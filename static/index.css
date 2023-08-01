@@ -22,14 +22,14 @@ body {
   box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
   background-color: #000000;
   text-align: center;
-  left: 36%;
+  left: 35%;
   top: 45%;
   color: #cfd2d4
 }
 
 #belowSearch {
   position: absolute;
-  left: 44%;
+  left: 43%;
   top: 51%;
   font-family: 'Open Sans', sans-serif;
   font-size: 11px;
