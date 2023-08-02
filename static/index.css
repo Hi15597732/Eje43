@@ -48,7 +48,6 @@ a{
 .form__input::placeholder {
   color: #bbb;
   text-align: center;
-  font-weight: 550;
 }
 
 .form__input:focus {
