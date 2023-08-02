@@ -111,4 +111,6 @@ a{
   text-align: left;
   color: #cfd2d4;
   font-size: 7px;
+  overflow: hidden;
+  white-space: nowrap;
 }
