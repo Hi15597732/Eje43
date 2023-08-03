@@ -132,7 +132,7 @@ x{
 
 #topCenter {
     position: fixed;
-    top: 5%;
+    top: 3%;
     left: 38%;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
@@ -142,7 +142,7 @@ x{
 
   #center {
     position: fixed;
-    top: 18%;
+    top: 20%;
     left: 15%;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
