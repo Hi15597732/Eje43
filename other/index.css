@@ -7,6 +7,7 @@ body {
   color: #cfd2d4;
   background-repeat:no-repeat;
   margin-left: 50px;
+  margin-top: 15px;
 }
 
 #searchbar {
@@ -133,7 +134,7 @@ x{
 
 #topCenter {
     position: fixed;
-    top: 3%;
+    top: 0;
     left: 38%;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
