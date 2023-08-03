@@ -7,8 +7,8 @@ body {
   color: #cfd2d4;
   background-repeat:no-repeat;
   margin-top: 15px;
-  overflow-y: scroll;
-  height: 100%;
+  overflow-y: auto;
+  height: auto;
 }
 
 #searchbar {
