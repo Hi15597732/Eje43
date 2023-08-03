@@ -151,3 +151,9 @@ x{
     margin-left: 125px;
     margin-right: 125px;
   }
+
+  #title {
+    font-family: 'Open Sans', sans-serif;
+    color: #cfd2d4;
+    font-size: 20px;
+  }
