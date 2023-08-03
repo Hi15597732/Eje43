@@ -123,6 +123,7 @@ x{
 #bottomRight {
   position: fixed;
   bottom: 0;
+  right: 0;
   font-family: 'Open Sans', sans-serif;
   text-align: right;
   color: #cfd2d4;
