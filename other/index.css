@@ -6,6 +6,7 @@ body {
   background-attachment: fixed;
   color: #cfd2d4;
   background-repeat:no-repeat;
+  margin-left: 50px;
 }
 
 #searchbar {
