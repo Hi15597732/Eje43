@@ -6,6 +6,7 @@ body {
   color: #cfd2d4;
   background-repeat:no-repeat;
   margin-top: 15px;
+  height: 100%;
   overflow-x: hidden;
   overflow-y: scroll;
 }
