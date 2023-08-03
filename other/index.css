@@ -3,12 +3,11 @@
 body {
   background: rgb(72,40,140);
   background: linear-gradient(135deg, rgba(36,20,70,255) 0%, rgba(65,38,22,255) 100%);
-  background-attachment: fixed;
+  background-attachment: scroll;
   color: #cfd2d4;
   background-repeat:no-repeat;
   margin-top: 15px;
   overflow: auto;
-  height: 200%;
 }
 
 #searchbar {
