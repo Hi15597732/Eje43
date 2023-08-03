@@ -28,7 +28,7 @@ body {
 }
 
 #belowSearch {
-  position: absolute;
+  position: fixed;
   left: 42%;
   top: 51%;
   font-family: 'Open Sans', sans-serif;
