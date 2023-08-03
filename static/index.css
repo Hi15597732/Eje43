@@ -119,3 +119,12 @@ x{
   overflow: hidden;
   white-space: nowrap;
 }
+
+#bottomRight {
+  position: fixed;
+  bottom: 0;
+  font-family: 'Open Sans', sans-serif;
+  text-align: right;
+  color: #cfd2d4;
+  font-size: 14px;
+}
