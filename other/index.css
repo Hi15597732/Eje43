@@ -6,7 +6,8 @@ body {
   color: #cfd2d4;
   background-repeat:no-repeat;
   margin-top: 15px;
-  overflow: auto;
+  overflow-x: hidden;
+  overflow-y: scroll;
 }
 
 #searchbar {
