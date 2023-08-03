@@ -120,12 +120,12 @@ x{
   white-space: nowrap;
 }
 
-#bottomRight {
+#topRight {
   position: fixed;
   bottom: 0;
-  right: 0;
+  right:0;
   font-family: 'Open Sans', sans-serif;
-  text-align: right;
+  text-align: left;
   color: #cfd2d4;
   font-size: 14px;
 }
