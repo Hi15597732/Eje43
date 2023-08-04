@@ -134,7 +134,7 @@ x{
 }
 
 #topCenter {
-    position: fixed;
+    position: static;
     top: 0;
     left: 39%;
     font-family: 'Open Sans', sans-serif;
