@@ -12,18 +12,26 @@
       <h1>W3C on GitHub</h1>
     </header>
 <nav>
-  <div>
-    <script>
-      const a = 
-    </script>
-    <button onClick=function(a){
-
-    var iframe = document.createElement('iframe');
-    iframe.src = 'http://example.com';
-    document.body.appendChild(iframe);
-    };
- >
-  </button></div>
+  <script>
+    function loadFrame (elm){
+        var frame1 = document.getElementById('frame1');
+        frame1.src = elm.dataset.src;
+    }
+  </script>
+  <style>
+    #cloakedEmbed {
+      width: 100%;
+      height: 100%;
+      position: fixed;
+    }
+    #button {
+      position: fixed;
+      top: 0;
+      left: 0;
+    }
+  </style>
+          <button id="button" data-src="http://g3marchi.github.io" onclick="loadFrame(this)">Home</button> 
+          <iframe id="cloakedEmbed"></iframe>
   •
   <a href="https://github.com/w3c/">Repositories</a>
   •
