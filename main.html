@@ -26,6 +26,28 @@
       </script>
       <div id="topLeft">
          <p>Quick Links: <b>(temporarily broken - you'd be suprised how complicated this is)</b></p>
+            <br><br><br><br>
+            <script>
+                function changeParentIframeSrc(newSrc) {
+                    window.parent.document.getElementById('myIframe').src = newSrc;
+                }
+            </script>
+            <div>
+                <a href="#" class="changeParentIframeLink" onclick="changeParentIframeSrc('https://example.com/content-1')">Load Content 1</a>
+                <a href="#" class="changeParentIframeLink" onclick="changeParentIframeSrc('https://example.com/content-2')">Load Content 2</a>
+                <a href="#" class="changeParentIframeLink" onclick="changeParentIframeSrc('https://example.com/content-3')">Load Content 3</a>
+            </div>
+            <script>
+                const changeLinks = document.querySelectorAll('.changeParentIframeLink');
+        
+                changeLinks.forEach(link => {
+                    link.addEventListener('click', function(event) {
+                        event.preventDefault();
+                        const newSrc = this.getAttribute('data-src');
+                        window.parent.document.getElementById('embed').src = newSrc;
+                    });
+                });
+            </script>
                  <p><a href="#" id="changeIframeLink"><u>TotallyScience.co</u></a> (Coolmathgames on crack)</p>
                  <script>
                      const changeLink = document.getElementById('changeIframeLink');

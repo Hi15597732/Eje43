@@ -20,6 +20,12 @@
 </style>
 </head>
 <body>
+  <script>
+    function changeParentIframeSrc(newSrc) {
+        const iframe = document.getElementById('embed');
+        iframe.src = newSrc;
+    }
+</script>
     <div id="embedContainer">
         <iframe id="embed" src="/main.html"></iframe>
     </div>
