@@ -33,7 +33,7 @@
        
          // Set input values to stored values or defaults
          keyInput.value = defaultKey;
-         websiteInput.value = defaultWebsite;
+         websiteInput.value = google.com;
        
          // Save input values to local storage on input change
          keyInput.addEventListener('input', function() {
@@ -51,7 +51,7 @@
                url = 'http://' + url;
              }
              window.location.href = url;
-           }
+            }
          });
        }
        
