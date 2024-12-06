@@ -2,8 +2,8 @@
     <script>
         const currentPath = window.location.pathname;
         
-        if (currentPath.startsWith('/uv/')) {
-            const newPath = '' + currentPath.substring(1);
+        if (currentPath.startsWith('/tiw/')) {
+            const newPath = '/uv/service/' + currentPath.substring(1);
             window.location.href = newPath;
         }
     </script>
